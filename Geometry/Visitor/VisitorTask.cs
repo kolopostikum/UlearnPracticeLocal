@@ -28,11 +28,7 @@ namespace Inheritance.Geometry.Visitor
         }
         public override Body Accept(IVisitor visitor)
         {
-            if (visitor is BoxifyVisitor boxifyVisitor)
-                return boxifyVisitor.Visit(this);
-            else if(visitor is BoundingBoxVisitor boundingBoxVisitor)
-                return boundingBoxVisitor.Visit(this);
-            return this;
+            return visitor.Visit(this);
         }
     }
 
@@ -50,11 +46,7 @@ namespace Inheritance.Geometry.Visitor
         }
         public override Body Accept(IVisitor visitor)
         {
-            if (visitor is BoxifyVisitor boxifyVisitor)
-                return boxifyVisitor.Visit(this);
-            else if(visitor is BoundingBoxVisitor boundingBoxVisitor)
-                return boundingBoxVisitor.Visit(this);
-            else throw new Exception();
+            return visitor.Visit(this);
         }
     }
 
@@ -71,11 +63,7 @@ namespace Inheritance.Geometry.Visitor
         }
         public override Body Accept(IVisitor visitor)
         {
-            if (visitor is BoxifyVisitor boxifyVisitor)
-                return boxifyVisitor.Visit(this);
-            else if(visitor is BoundingBoxVisitor boundingBoxVisitor)
-                return boundingBoxVisitor.Visit(this);
-            else throw new Exception();
+            return visitor.Visit(this);
         }
     }
 
@@ -102,11 +90,7 @@ namespace Inheritance.Geometry.Visitor
         }
         public override Body Accept(IVisitor visitor)
         {
-            if (visitor is BoxifyVisitor boxifyVisitor)
-                return boxifyVisitor.Visit(this);
-            else if(visitor is BoundingBoxVisitor boundingBoxVisitor)
-                return boundingBoxVisitor.Visit(this);
-            else throw new Exception();
+            return visitor.Visit(this);
         }
     }
 
