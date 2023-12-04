@@ -1,0 +1,14 @@
+D:\UlearnPracticeLocal\Geometry\bin\Debug\net7.0\Geometry.exe
+D:\UlearnPracticeLocal\Geometry\bin\Debug\net7.0\Geometry.deps.json
+D:\UlearnPracticeLocal\Geometry\bin\Debug\net7.0\Geometry.runtimeconfig.json
+D:\UlearnPracticeLocal\Geometry\bin\Debug\net7.0\Geometry.dll
+D:\UlearnPracticeLocal\Geometry\bin\Debug\net7.0\Geometry.pdb
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.dll
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\refint\Geometry.dll
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.pdb
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\Geometry.genruntimeconfig.cache
+D:\UlearnPracticeLocal\Geometry\obj\Debug\net7.0\ref\Geometry.dll
